@@ -1052,7 +1052,7 @@ class We {
     this._cacheExpirations = /* @__PURE__ */ new Map();
   }
 }
-ye([{"revision":null,"url":"assets/AboutView.293c3b82.js"},{"revision":null,"url":"assets/index.0b07b866.css"},{"revision":null,"url":"assets/index.e731da9e.js"},{"revision":"1e7d111fb77af210d20943e71fd1e5e0","url":"index.html"},{"revision":"1872c500de691dce40960bb85481de07","url":"registerSW.js"},{"revision":"5dfe5dc233e6af9806e04e538bc3b7f1","url":"manifest.webmanifest"}]);
+ye([{"revision":null,"url":"assets/AboutView.092dafc2.js"},{"revision":null,"url":"assets/index.1b7ba195.css"},{"revision":null,"url":"assets/index.7bee24a7.js"},{"revision":"43755c68c815f2b80422ba9f6148c170","url":"index.html"},{"revision":"1872c500de691dce40960bb85481de07","url":"registerSW.js"},{"revision":"5dfe5dc233e6af9806e04e538bc3b7f1","url":"manifest.webmanifest"}]);
 E(new _e(me("index.html")));
 const Be = new g(
   ({ url: n }) => n.pathname === "/eintraege",
